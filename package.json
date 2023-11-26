@@ -1,7 +1,7 @@
 {
-  "name": "@wazabii/observer",
+  "name": "@wazabii/DrawSvg",
   "version": "1.0.0",
-  "description": "A super lightweight and platform-agnostic push state handler.",
+  "description": "Draw an svg stroke with the scroll",
   "directories": {
     "test": "tests"
   },
