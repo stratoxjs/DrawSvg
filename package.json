@@ -1,5 +1,5 @@
 {
-  "name": "@wazabii/DrawSvg",
+  "name": "@wazabii/drawsvg",
   "version": "1.0.0",
   "description": "Draw an svg stroke with the scroll",
   "directories": {
